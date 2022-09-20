@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&display=swap');
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    /*height:100%*/
+    
+}
+
+main {
+    background-color: white; 
+    border-radius: 10px;
+    box-shadow:5px 5px 15px #343a3d98;
+    width:600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1{
+color:#3A403B ;
+text-align: center;
+text-shadow: 1px 1px 2px #262b27a1;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif1;
+font-size:3em;
+}
+
+h2{
+font-family: 'DynaPuff', cursive;
+color: rgb(33,136,161);
+font-size:2em;
+}
+
+body{ background-image: linear-gradient(to right, #F2D3AC, #8C876C);
+color: rgb(24, 97, 126);
+}
+
+p {text-align: justify;
+   font: italic bold 1em Arial, Helvetica,sans-serif;}
